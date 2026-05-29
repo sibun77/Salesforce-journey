@@ -5,4 +5,4 @@ Fundamental concepts of the Salesforce platform, cloud models, and underlying ar
 ## Topics
 
 - [What is Salesforce](./Salesforce-Fundamentals/what-is-salesforce.md)
-- [Multi Tenant Architecture](./Salesforce-Fundamentals/Multi-Tenant-Architecture.md)
+- [Multi Tenant Architecture](./Salesforce-Fundamentals/multi-tenant-architecture.md.md)
