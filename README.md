@@ -17,3 +17,4 @@ Core components of the Salesforce database, data structures, and underlying sche
 
 - [Standard Objects](./Data-Model/standard-objects.md)
 - [Custom Objects](./Data-Model/custom-objects.md)
+- [Field Types](./Data-Model/field-types.md)
