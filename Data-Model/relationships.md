@@ -1,4 +1,4 @@
-# Salesforce Relationships: Enterprise Data Modeling Guide
+# Salesforce Relationships:
 
 ## 1. Introduction
 
