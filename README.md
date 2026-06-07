@@ -28,3 +28,4 @@ Tools and features used to streamline business processes, eliminate manual tasks
 
 - [Salesforce Workflow Rules](./Automation/workflow-rules.md)
 - [Salesforce Process Builder](./Automation/process-builder.md)
+- [Salesforce Flow](./Automation/salesforce-flow.md)
