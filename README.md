@@ -30,3 +30,11 @@ Tools and features used to streamline business processes, eliminate manual tasks
 - [Salesforce Process Builder](./Automation/process-builder.md)
 - [Salesforce Flow](./Automation/salesforce-flow.md)
 - [Salesforce Approval Processes](./Automation/approval-processes.md)
+
+# Org Security
+
+Tools and features used to control user access, protect data, and enforce security across objects, fields, records, and applications.
+
+## Topics
+
+- [Salesforce Profiles](./Org-Security/profiles.md)
