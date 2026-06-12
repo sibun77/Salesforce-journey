@@ -40,3 +40,4 @@ Tools and features used to control user access, protect data, and enforce securi
 - [Salesforce Profiles](./Org-Security/profiles.md)
 - [Salesforce Permission Sets](./Org-Security/permission-sets.md)
 - [Salesforce Permission Set Groups](./Org-Security/permission-set-groups.md)
+- [Salesforce Roles and Role Hierarchy](./Org-Security/roles-and-role-hierarchy.md)
