@@ -41,3 +41,4 @@ Tools and features used to control user access, protect data, and enforce securi
 - [Salesforce Permission Sets](./Org-Security/permission-sets.md)
 - [Salesforce Permission Set Groups](./Org-Security/permission-set-groups.md)
 - [Salesforce Roles and Role Hierarchy](./Org-Security/roles-and-role-hierarchy.md)
+- [Salesforce Sharing Rules and Security](./Org-Security/sharing-rules-and-public-groups.md)
