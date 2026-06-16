@@ -44,3 +44,11 @@ Tools and features used to control user access, protect data, and enforce securi
 - [Salesforce Sharing Rules and Security](./Org-Security/sharing-rules-and-public-groups.md)
 - [Salesforce Organization wide defaults](./Org-Security/organization-wide-defaults.md)
 - [Field-Level Security (FLS) in Salesforce](./Org-Security/field-level-security.md)
+
+# Advanced Security
+
+Tools and features used to strengthen authentication, control login access, protect user sessions, and enhance overall Salesforce security.
+
+## Topics
+
+- [Advanced Security Login Policies](./Org-Security/advanced-security-login-policies.md)
