@@ -51,4 +51,4 @@ Tools and features used to strengthen authentication, control login access, prot
 
 ## Topics
 
-- [Advanced Security Login Policies](./Org-Security/advanced-security-login-policies.md)
+- [Advanced Security Login Policies](./Advanced-Security/advanced-security-login-policies.md)
