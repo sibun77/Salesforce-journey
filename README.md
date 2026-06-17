@@ -52,3 +52,4 @@ Tools and features used to strengthen authentication, control login access, prot
 ## Topics
 
 - [Advanced Security Login Policies](./Advanced-Security/advanced-security-login-policies.md)
+- [Salesforce Shield](./Advanced-Security/salesforce-shield.md)
