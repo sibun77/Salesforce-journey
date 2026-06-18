@@ -53,3 +53,11 @@ Tools and features used to strengthen authentication, control login access, prot
 
 - [Advanced Security Login Policies](./Advanced-Security/advanced-security-login-policies.md)
 - [Salesforce Shield](./Advanced-Security/salesforce-shield.md)
+
+# SOQL
+
+Tools and features used to retrieve, filter, sort, and analyze Salesforce data efficiently using the Salesforce Object Query Language (SOQL).
+
+## Topics
+
+- [SOQL Basics – SELECT Queries & Basic Querying](./SOQL/soql-select-queries.md)
