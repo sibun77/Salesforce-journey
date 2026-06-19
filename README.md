@@ -61,3 +61,4 @@ Tools and features used to retrieve, filter, sort, and analyze Salesforce data e
 ## Topics
 
 - [SOQL Basics – SELECT Queries & Basic Querying](./SOQL/soql-select-queries.md)
+- [SOQL Where Conditions](./SOQL/soql-where-conditions.md)
