@@ -64,3 +64,4 @@ Tools and features used to retrieve, filter, sort, and analyze Salesforce data e
 - [SOQL Where Conditions](./SOQL/soql-where-conditions.md)
 - [Relationship Queries](./SOQL/soql-where-conditions.md)
 - [Aggregate Queries](./SOQL/aggregate-queries.md)
+- [Salesforce Query Optimization – Indexes & Selectivity](./SOQL/query-optimization.md)
