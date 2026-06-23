@@ -1,9 +1,5 @@
 # Salesforce Query Optimization – Indexes & Selectivity
 
-**Document Purpose:** A complete, architect-level reference for understanding Salesforce Query Optimization, the Query Optimizer, Indexes, Selective Queries, Query Plans, Large Data Volumes (LDV), and Enterprise SOQL Best Practices.
-
----
-
 ## 1. Introduction
 
 ### What is Query Optimization?

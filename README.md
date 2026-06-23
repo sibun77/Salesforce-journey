@@ -65,3 +65,11 @@ Tools and features used to retrieve, filter, sort, and analyze Salesforce data e
 - [Relationship Queries](./SOQL/soql-where-conditions.md)
 - [Aggregate Queries](./SOQL/aggregate-queries.md)
 - [Salesforce Query Optimization – Indexes & Selectivity](./SOQL/query-optimization.md)
+
+# SOSL
+
+Tools and features used to search and retrieve records across multiple Salesforce objects using the Salesforce Object Search Language (SOSL).
+
+## Topics
+
+- [SOSL – Text Search Across Objects](./SOSL/sosl-text-search.md)
