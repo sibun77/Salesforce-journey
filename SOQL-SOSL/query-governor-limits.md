@@ -59,16 +59,16 @@ Understanding how a query executes internally clarifies *why* certain limits exi
 ```mermaid
 sequenceDiagram
     participant Apex as Apex Runtime
-    participant Parsing as Parsing & Metadata
+    participant Parsing as Parsing and Metadata
     participant Sec as Security Engine
-    participant Opt as Query Optimizer
+    participant QOpt as Query Optimizer
     participant DB as Shared Database
     
     Apex->>Parsing: Database.query('SELECT...')
     Parsing->>Sec: Validate Object/Field Access
-    Sec->>Opt: Apply Sharing Rules & WHERE clause
-    Opt->>Opt: Calculate Cost & Cardinality
-    Opt->>DB: Execute Query Plan (Index/Scan)
+    Sec->>QOpt: Apply Sharing Rules and WHERE clause
+    QOpt->>QOpt: Calculate Cost and Cardinality
+    QOpt->>DB: Execute Query Plan (Index/Scan)
     DB-->>Apex: Return Records
     Apex->>Apex: Verify Limits (Rows/Count/Heap)
     Apex->>Apex: Hydrate sObjects
