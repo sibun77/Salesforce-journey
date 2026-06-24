@@ -54,22 +54,16 @@ Tools and features used to strengthen authentication, control login access, prot
 - [Advanced Security Login Policies](./Advanced-Security/advanced-security-login-policies.md)
 - [Salesforce Shield](./Advanced-Security/salesforce-shield.md)
 
-# SOQL
+# SOQL & SOSL
 
-Tools and features used to retrieve, filter, sort, and analyze Salesforce data efficiently using the Salesforce Object Query Language (SOQL).
-
-## Topics
-
-- [SOQL Basics – SELECT Queries & Basic Querying](./SOQL/soql-select-queries.md)
-- [SOQL Where Conditions](./SOQL/soql-where-conditions.md)
-- [Relationship Queries](./SOQL/soql-where-conditions.md)
-- [Aggregate Queries](./SOQL/aggregate-queries.md)
-- [Salesforce Query Optimization – Indexes & Selectivity](./SOQL/query-optimization.md)
-
-# SOSL
-
-Tools and features used to search and retrieve records across multiple Salesforce objects using the Salesforce Object Search Language (SOSL).
+Tools and features used to query, search, retrieve, filter, and analyze Salesforce data efficiently using SOQL and SOSL.
 
 ## Topics
 
-- [SOSL – Text Search Across Objects](./SOSL/sosl-text-search.md)
+- [SOQL Basics – SELECT Queries & Basic Querying](./SOQL-SOSL/soql-select-queries.md)
+- [SOQL Where Conditions](./SOQL-SOSL/soql-where-conditions.md)
+- [Relationship Queries](./SOQL-SOSL/soql-where-conditions.md)
+- [Aggregate Queries](./SOQL-SOSL/aggregate-queries.md)
+- [Salesforce Query Optimization – Indexes & Selectivity](./SOQL-SOSL/query-optimization.md)
+- [SOSL – Text Search Across Objects](./SOQL-SOSL/sosl-text-search.md)
+- [Governor Limits – Query Limitations](./SOQL-SOSL/query-governor-limits.md)
