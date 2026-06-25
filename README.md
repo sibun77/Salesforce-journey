@@ -67,3 +67,11 @@ Tools and features used to query, search, retrieve, filter, and analyze Salesfor
 - [Salesforce Query Optimization – Indexes & Selectivity](./SOQL-SOSL/query-optimization.md)
 - [SOSL – Text Search Across Objects](./SOQL-SOSL/sosl-text-search.md)
 - [Governor Limits – Query Limitations](./SOQL-SOSL/query-governor-limits.md)
+
+# Apex Basics
+
+Tools and features used to understand Apex syntax, variables, data types, collections, and core programming concepts for building scalable Salesforce applications.
+
+## Topics
+
+- [Apex Syntax & Variables – Primitive Types and Collections](./Apex-Basics/apex-syntax-variables-collections.md)
