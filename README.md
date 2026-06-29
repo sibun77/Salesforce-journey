@@ -78,3 +78,11 @@ Tools and features used to understand Apex syntax, variables, data types, collec
 - [Apex Classes Objects OOP](./Apex-Basics/apex-classes-objects-oop.md)
 - [Apex Exception Handling & Error Management](./Apex-Basics/apex-exception-handling.md)
 - [Apex Collections List Set Map](./Apex-Basics/apex-collections-list-set-map.md)
+
+# Triggers
+
+Tools and features used to implement event-driven automation, data processing, and business logic using Apex triggers in Salesforce.
+
+## Topics
+
+- [Before Triggers Validation Updates](./Triggers/before-triggers-validation-updates.md)
