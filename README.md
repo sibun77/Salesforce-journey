@@ -86,3 +86,4 @@ Tools and features used to implement event-driven automation, data processing, a
 ## Topics
 
 - [Before Triggers Validation Updates](./Triggers/before-triggers-validation-updates.md)
+- [After Triggers Related Record Operations](./Triggers/after-triggers-related-record-operations.md)
