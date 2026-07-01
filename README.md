@@ -87,3 +87,4 @@ Tools and features used to implement event-driven automation, data processing, a
 
 - [Before Triggers Validation Updates](./Triggers/before-triggers-validation-updates.md)
 - [After Triggers Related Record Operations](./Triggers/after-triggers-related-record-operations.md)
+- [Trigger Framework – Best Practices](./Triggers/trigger-framework-best-practices.md)
