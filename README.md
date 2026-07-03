@@ -89,3 +89,11 @@ Tools and features used to implement event-driven automation, data processing, a
 - [After Triggers Related Record Operations](./Triggers/after-triggers-related-record-operations.md)
 - [Trigger Framework – Best Practices](./Triggers/trigger-framework-best-practices.md)
 - [Salesforce Order of Execution](./Triggers/salesforce-order-of-execution.md)
+
+# Asynchronous Apex
+
+Tools and features used to process tasks in the background, improve performance, and handle large-scale operations efficiently using asynchronous Apex in Salesforce.
+
+## Topics
+
+- [Future Methods – Asynchronous Processing](./Asynchronous-Apex/salesforce-order-of-execution.md)
