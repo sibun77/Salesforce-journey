@@ -100,3 +100,11 @@ Tools and features used to process tasks in the background, improve performance,
 - [Queueable Apex Chained Jobs](./Asynchronous-Apex/queueable-apex-chained-jobs.md)
 - [Batch Apex – Large Data Processing](./Asynchronous-Apex/batch-apex-large-data-processing.md)
 - [Schedulable Apex Scheduled Jobs](./Asynchronous-Apex/schedulable-apex-scheduled-jobs.md)
+
+# Integration
+
+Tools and features used to connect Salesforce with external systems using APIs, web services, authentication, and integration patterns for seamless data exchange and automation.
+
+## Topics
+
+- [REST API – Create REST Services](./Integration/rest-api-create-rest-services.md)
