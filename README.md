@@ -109,3 +109,4 @@ Tools and features used to connect Salesforce with external systems using APIs, 
 
 - [REST API – Create REST Services](./Integration/rest-api-create-rest-services.md)
 - [Soap Api Soap Integrations](./Integration/soap-api-soap-integrations.md)
+- [Http Callouts External Api Communication](./Integration/http-callouts-external-api-communication.md)
