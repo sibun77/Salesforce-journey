@@ -129,3 +129,13 @@ Tools and techniques used to write efficient, scalable, and maintainable Apex co
 
 - [Bulkification – Handle Multiple Records](./Best-Practices/bulkification-handle-multiple-records.md)
 - [Governor Limits – Avoid Hitting Limits](./Best-Practices/governor-limits-avoid-hitting-limits.md)
+
+# LWC Basics
+
+Tools and features used to build modern, reusable, and interactive user interfaces in Salesforce using Lightning Web Components (LWC), including component structure, data binding, and event-driven communication.
+
+## Topics
+
+- [Component Structure – HTML, JS, XML](./LWC-Basics/component-structure-html-js-xml.md)
+- [Data Binding – Reactive Properties](./LWC-Basics/data-binding-reactive-properties.md)
+- [Events – Custom and DOM Events](./LWC-Basics/events-custom-and-dom-events.md)
