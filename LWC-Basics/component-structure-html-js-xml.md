@@ -1,4 +1,4 @@
-# component-structure-html-js-xml.md
+# Component Structure – HTML, JS, XML
 
 # 1. Introduction
 
