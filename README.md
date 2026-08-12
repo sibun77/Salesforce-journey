@@ -139,3 +139,16 @@ Tools and features used to build modern, reusable, and interactive user interfac
 - [Component Structure – HTML, JS, XML](./LWC-Basics/component-structure-html-js-xml.md)
 - [Data Binding – Reactive Properties](./LWC-Basics/data-binding-reactive-properties.md)
 - [Events – Custom and DOM Events](./LWC-Basics/events-custom-and-dom-events.md)
+
+# UI
+
+Tools and features used to build responsive, interactive, and user-friendly Salesforce interfaces using SLDS, LWC rendering, validation, notifications, and modal components.
+
+## Topics
+
+- [SLDS – Lightning Design System](./UI/slds-lightning-design-system.md)
+- [Conditional Rendering – if:true and if:false](./UI/conditional-rendering-if-true-if-false.md)
+- [Iteration – for:each Loops](./UI/iteration-for-each-loops.md)
+- [Validation – Form Validation](./UI/validation-form-validation.md)
+- [Notifications – Toast Messages](./UI/notifications-toast-messages.md)
+- [Modals – Popup Handling](./UI/modals-popup-handling.md)
