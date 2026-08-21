@@ -152,3 +152,13 @@ Tools and features used to build responsive, interactive, and user-friendly Sale
 - [Validation – Form Validation](./UI/validation-form-validation.md)
 - [Notifications – Toast Messages](./UI/notifications-toast-messages.md)
 - [Modals – Popup Handling](./UI/modals-popup-handling.md)
+
+# Data
+
+Tools and features used to retrieve, manage, and work with Salesforce data in Lightning Web Components using reactive data services, Apex methods, and Lightning Data Service.
+
+## Topics
+
+- [Wire Service – Reactive Data Fetching](./Data/wire-service-reactive-data-fetching.md)
+- [Imperative Apex – Manual Apex Calls](./Data/imperative-apex-manual-apex-calls.md)
+- [Lightning Data Service (LDS)](./Data/lightning-data-service-lds.md)
