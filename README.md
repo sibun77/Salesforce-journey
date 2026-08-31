@@ -162,3 +162,16 @@ Tools and features used to retrieve, manage, and work with Salesforce data in Li
 - [Wire Service – Reactive Data Fetching](./Data/wire-service-reactive-data-fetching.md)
 - [Imperative Apex – Manual Apex Calls](./Data/imperative-apex-manual-apex-calls.md)
 - [Lightning Data Service (LDS)](./Data/lightning-data-service-lds.md)
+
+# Advanced LWC
+
+Advanced techniques and development practices used to build scalable, performant, reusable, and maintainable Lightning Web Components for enterprise Salesforce applications.
+
+## Topics
+
+- [Frontend Pagination – Client-Side Pagination](./Advanced/frontend-pagination-client-side-pagination.md)
+- [Backend Pagination – Server-Side Pagination](./Advanced/backend-pagination-server-side-pagination.md)
+- [Infinite Scroll – Lazy Loading](./Advanced/infinite-scroll-lazy-loading.md)
+- [Debouncing – Search Optimization](./Advanced/debouncing-search-optimization.md)
+- [Reusable Components – Shared UI](./Advanced/reusable-components-shared-ui.md)
+- [Jest Testing – Unit Testing](./Advanced/jest-testing-unit-testing.md)
